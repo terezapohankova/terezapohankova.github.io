@@ -1,5 +1,5 @@
-title: testing
-description: A personal blog powered by Jekyll template
+title: "testing"
+description: "A personal blog powered by Jekyll template"
 baseurl: "/blog"
 url: "https://terezapohankova.github.io"
 theme: minima
