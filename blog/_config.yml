@@ -1,5 +1,10 @@
-title: "testing"
-description: "A personal blog powered by Jekyll template"
+title: "Storage space for docs, tips&tricks"
+description: ""
 baseurl: "/blog"
 url: "https://terezapohankova.github.io"
 theme: minima
+
+social:
+  github: https://github.com/terezapohankova
+  linkedin: https://www.linkedin.com/in/tereza-pohankov%C3%A1-3511a1168/
+  mastodon: https://mapstodon.space/@terezapohankova
