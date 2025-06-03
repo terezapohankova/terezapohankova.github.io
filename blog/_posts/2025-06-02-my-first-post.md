@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My First Blog Post"
+title: "First"
 ---
 
 This is my first post using Jekyll on a subpage!!
